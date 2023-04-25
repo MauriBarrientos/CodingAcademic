@@ -1,0 +1,13 @@
+body{
+    background-image: url("fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 50;
+}
+
+.bodycrs{
+background-image: url("cool-background.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
