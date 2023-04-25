@@ -11,3 +11,13 @@ background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
 }
+
+.titulocentral{
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.textotitcentral{
+    font-weight: 500;
+}
+
