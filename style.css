@@ -17,6 +17,10 @@ background-position: center;
     font-weight: bold;
 }
 
+.tituloesquina, .cursosesq, .inicioesq{
+    font-weight: bold;
+}
+
 .textotitcentral{
     font-weight: 500;
 }
